@@ -36,3 +36,10 @@ input, textarea, select{
     margin-right:0;
     margin-bottom: 0;
   }
+.inline{
+    width:unset;
+    margin: 0 0.5em 0 0;
+  }
+input{
+    width:100%;
+  }
